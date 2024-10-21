@@ -1,0 +1,1 @@
+This is a concise python code to scrape Iranian national code identifiers (three first digits) from a public url and store the data into a json or excel file.

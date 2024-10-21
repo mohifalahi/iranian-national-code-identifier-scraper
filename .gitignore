@@ -1,0 +1,9 @@
+# Ignore .vscode
+.vscode
+
+# Ignore venv
+venv
+
+# Ignore data files
+data.json
+data.xlsx
